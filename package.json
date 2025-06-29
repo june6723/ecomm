@@ -2,8 +2,9 @@
   "packageManager": "yarn@4.9.2",
   "workspaces": [
     "container",
-    "products",
-    "cart"
+    "auth",
+    "marketing",
+    "dashboard"
   ],
   "devDependencies": {
     "prettier": "^3.6.2"
