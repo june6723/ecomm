@@ -899,7 +899,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cart@workspace:cart"
   dependencies:
-    faker: "npm:^4.1.0"
+    faker: "npm:^5.0.0"
     html-webpack-plugin: "npm:5.6.3"
     nodemon: "npm:^2.0.15"
     webpack: "npm:^5.99.9"
@@ -1524,10 +1524,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"faker@npm:^4.1.0":
-  version: 4.1.0
-  resolution: "faker@npm:4.1.0"
-  checksum: 10c0/eaa96a7db715451128c4641c6df148b53ac80b863a64a16e9d7d416dd7b1fac53b5d02a300a3d36168467edb8a4ce2a169af2d820df7915ed0732044d997a50a
+"faker@npm:^5.0.0, faker@npm:^5.1.0":
+  version: 5.5.3
+  resolution: "faker@npm:5.5.3"
+  checksum: 10c0/55ee2fb6425df717253f237b4e952c94efe33da23a5826ca41c6ecb31ccfb49d06c5de64b82b6994ca9c76c05eab4dbf779cea047455fff6e62cc9d585c7d460
   languageName: node
   linkType: hard
 
@@ -2874,7 +2874,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "products@workspace:products"
   dependencies:
-    faker: "npm:^4.1.0"
+    faker: "npm:^5.1.0"
     html-webpack-plugin: "npm:5.6.3"
     nodemon: "npm:^2.0.15"
     webpack: "npm:^5.99.9"

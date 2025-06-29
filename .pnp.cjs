@@ -1276,7 +1276,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./cart/",\
         "packageDependencies": [\
           ["cart", "workspace:cart"],\
-          ["faker", "npm:4.1.0"],\
+          ["faker", "npm:5.5.3"],\
           ["html-webpack-plugin", "virtual:29714a9abd2cc3de29ab990b44ac98166753ddcb97c39bf08b06b2c5ed93adf2414edaee09d36c7665997f678d54bd6b03ca5264ba9ea14235729cb007b07d48#npm:5.6.3"],\
           ["nodemon", "npm:2.0.22"],\
           ["webpack", "virtual:29714a9abd2cc3de29ab990b44ac98166753ddcb97c39bf08b06b2c5ed93adf2414edaee09d36c7665997f678d54bd6b03ca5264ba9ea14235729cb007b07d48#npm:5.99.9"],\
@@ -2032,10 +2032,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["faker", [\
-      ["npm:4.1.0", {\
-        "packageLocation": "../../.yarn/berry/cache/faker-npm-4.1.0-7e1972c7c9-10c0.zip/node_modules/faker/",\
+      ["npm:5.5.3", {\
+        "packageLocation": "../../.yarn/berry/cache/faker-npm-5.5.3-541ce97798-10c0.zip/node_modules/faker/",\
         "packageDependencies": [\
-          ["faker", "npm:4.1.0"]\
+          ["faker", "npm:5.5.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3620,7 +3620,7 @@ const RAW_RUNTIME_STATE =
       ["workspace:products", {\
         "packageLocation": "./products/",\
         "packageDependencies": [\
-          ["faker", "npm:4.1.0"],\
+          ["faker", "npm:5.5.3"],\
           ["html-webpack-plugin", "virtual:02afb85b118028bb342fce9633ead5922aa2198d4656048ae810bbf43470cfd27699105042a0a019d9a2a5d7fc539d1b0a36f44cdedfe84b539f9a744a425bf6#npm:5.6.3"],\
           ["nodemon", "npm:2.0.22"],\
           ["products", "workspace:products"],\
