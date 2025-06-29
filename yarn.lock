@@ -895,6 +895,19 @@ __metadata:
   languageName: node
   linkType: hard
 
+"cart@workspace:cart":
+  version: 0.0.0-use.local
+  resolution: "cart@workspace:cart"
+  dependencies:
+    faker: "npm:^4.1.0"
+    html-webpack-plugin: "npm:5.6.3"
+    nodemon: "npm:^2.0.15"
+    webpack: "npm:^5.99.9"
+    webpack-cli: "npm:5.1.4"
+    webpack-dev-server: "npm:5.2.2"
+  languageName: unknown
+  linkType: soft
+
 "chokidar@npm:^3.5.2, chokidar@npm:^3.6.0":
   version: 3.6.0
   resolution: "chokidar@npm:3.6.0"
@@ -2824,6 +2837,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"prettier@npm:^3.6.2":
+  version: 3.6.2
+  resolution: "prettier@npm:3.6.2"
+  bin:
+    prettier: bin/prettier.cjs
+  checksum: 10c0/488cb2f2b99ec13da1e50074912870217c11edaddedeadc649b1244c749d15ba94e846423d062e2c4c9ae683e2d65f754de28889ba06e697ac4f988d44f45812
+  languageName: node
+  linkType: hard
+
 "pretty-error@npm:^4.0.0":
   version: 4.0.0
   resolution: "pretty-error@npm:4.0.0"
@@ -3062,6 +3084,8 @@ __metadata:
 "root-workspace-0b6124@workspace:.":
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
+  dependencies:
+    prettier: "npm:^3.6.2"
   languageName: unknown
   linkType: soft
 
