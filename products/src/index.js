@@ -1,11 +1,11 @@
-import faker from 'faker'
+import faker from "faker";
 
-let products = ''
+let products = "";
 
 for (let i = 0; i < 10; i++) {
   const name = faker.commerce.productName();
   products += `<div>${name}</div>`;
 }
 
-const el = document.getElementById('dev-products');
+const el = document.getElementById("dev-products");
 el.innerHTML = products;
