@@ -1,1 +1,1 @@
-console.log("Marketing imported");
+import("./bootstrap");
